@@ -31,6 +31,13 @@
 | ------- |
 | [Manjaro Cinnamon Config](https://github.com/samwhelp/manjaro-cinnamon-adjustment) |
 | [Tool Config](https://github.com/samwhelp/manjaro-adjustment/tree/main/prototype/main/tool-config/part) |
+| [manjaro-cinnamon-adjustment](https://github.com/samwhelp/manjaro-cinnamon-adjustment/tree/main/demo/scripts/main/cinnamon-adjustment) |
+
+
+| Style Management |
+| ---------------- |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+| [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
 
 
 
@@ -68,10 +75,13 @@
 | ---- | ------ |
 | [Cinnamon 探索筆記](https://samwhelp.github.io/note-about-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-cinnamon) |
 | [LinuxMint Cinnamon 探索筆記](https://samwhelp.github.io/note-about-linuxmint-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-cinnamon) |
+| [Lmde Cinnamon 探索筆記](https://samwhelp.github.io/note-about-lmde-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-lmde-cinnamon) |
 | [Ubuntu Cinnamon 探索筆記](https://samwhelp.github.io/note-about-ubuntu-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-cinnamon) |
-| [Garuda Cinnamon 探索筆記](https://samwhelp.github.io/note-about-garuda-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-garuda-cinnamon) |
 | [Debian Cinnamon 探索筆記](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
 | [Fedora Cinnamon 探索筆記](https://samwhelp.github.io/note-about-fedora-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cinnamon) |
+| [Archlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-archlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-cinnamon) |
+| [Voidlinux Cinnamon 探索筆記](https://samwhelp.github.io/note-about-voidlinux-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-cinnamon) |
+| [Garuda Cinnamon 探索筆記](https://samwhelp.github.io/note-about-garuda-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-garuda-cinnamon) |
 
 
 
